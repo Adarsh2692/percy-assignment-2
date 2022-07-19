@@ -1,0 +1,5 @@
+git clone https://github.com/Adarsh2692/example-percy-java-selenium.git
+export PERCY_TOKEN=my_percy_project_token
+git checkout feature
+make install
+make test
